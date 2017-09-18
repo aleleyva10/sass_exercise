@@ -6,4 +6,3 @@ The original syntax, called "the indented syntax", uses a syntax similar to Haml
 The newer syntax, "SCSS", uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. 
 The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.
 
-.
